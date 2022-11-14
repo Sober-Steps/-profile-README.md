@@ -1,11 +1,9 @@
 # Sober Steps
+**$1500 Winner of BostonHacks 2023 for Critical information Access on Substance Abuse, Mental Health Challend!**
 
-[2009e2a5-eea2-4905-aefb-63bc0785c788](https://user-images.githubusercontent.com/82325195/201554924-34379145-6742-483b-b80b-28b540afccfe.jpg)
+![2009e2a5-eea2-4905-aefb-63bc0785c788](https://user-images.githubusercontent.com/82325195/201555046-f23c8ef3-36b8-414d-95f9-02544fa1212e.jpg)
 
 
-
-
-Hello! 
 
 ## Inspiration
 We know a lot of people struggle in mental health issues and sobriety, especially in college, and we wanted to make an app in honor of Drew, a BU student who passed away due to overdosing. We hope to spread awareness and support everyone going through a hard time. We wanted to make sure there was an alternative to isolating yourself when you are going through a tough time-- we wanted an app that promotes friendship, communication, and accountability! We are here for you, and so is everyone on our app. 
