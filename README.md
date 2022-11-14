@@ -7,7 +7,7 @@
 
 
 Here is a video demo of Sober Steps: 
-[![IMAGE ALT TEXT](https://youtu.be/GN_I9C0LT3k "Sober Steps")
+[![<img width="785" alt="Screen Shot 2022-11-13 at 8 43 31 PM" src="https://user-images.githubusercontent.com/82325195/201558126-9a2edb23-ef4b-4d4d-968a-b2f13e1209e2.png">](https://youtu.be/GN_I9C0LT3k "Sober Steps")
 
 ## Inspiration
 We know a lot of people struggle in mental health issues and sobriety, especially in college, and we wanted to make an app in honor of Drew, a BU student who passed away due to overdosing. We hope to spread awareness and support everyone going through a hard time. We wanted to make sure there was an alternative to isolating yourself when you are going through a tough time-- we wanted an app that promotes friendship, communication, and accountability! We are here for you, and so is everyone on our app. 
