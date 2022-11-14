@@ -1,6 +1,6 @@
 # Sober Steps
 
-<img align="right" src="![2009e2a5-eea2-4905-aefb-63bc0785c788](https://user-images.githubusercontent.com/82325195/201554924-34379145-6742-483b-b80b-28b540afccfe.jpg)">
+[2009e2a5-eea2-4905-aefb-63bc0785c788](https://user-images.githubusercontent.com/82325195/201554924-34379145-6742-483b-b80b-28b540afccfe.jpg)
 
 
 
