@@ -1,7 +1,7 @@
 # Sober Steps
 ***Winner of BostonHacks 2023 for Friends for Drew Foundation Challenge!***
 
-###### __We won a cash prize of $1500 US dollars for best "student friendly, live and usable online resource that can be available on multiple platforms (mobile/desktop) to gather data, statistics, and stories regarding the prevalence of mental health issues and substance use disorder and the impact on young adults and their family and friends." For more information about the challenge we won, please click here.__
+###### __We won a cash prize of $1500 US dollars for best "student friendly, live and usable online resource that can be available on multiple platforms (mobile/desktop) to gather data, statistics, and stories regarding the prevalence of mental health issues and substance use disorder and the impact on young adults and their family and friends." For more information about the challenge we won, please click [here](https://docs.google.com/presentation/d/1tYvKehjq_8_zszUY1xILSoCoYVhvMUWgfoD2oKiwy9k/edit?usp=sharing).__
 
 ![2009e2a5-eea2-4905-aefb-63bc0785c788](https://user-images.githubusercontent.com/82325195/201555046-f23c8ef3-36b8-414d-95f9-02544fa1212e.jpg)
 
