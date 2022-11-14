@@ -1,4 +1,4 @@
-# -profile-README.md
+# Sober Steps
 Hello! 
 
 
@@ -21,5 +21,5 @@ We are so proud of working nonstop, despite the huge learning curve. Although we
 ## What we learned
 We learned so much! We learned many different frameworks and coding languages in the process of building this project. From SQL, Xcode, Swift, Twillio,  Node.js, CochroachDB, to Android Studio, we learned so much!
 
-## What's next for Untitled
+## What's next for Sober Steps
 We will be continuing to work on this project in our free time in hopes of creating a fully functional iOS mobile application and actually launching it on the App Store and creating a marketing strategy to raise awareness about our app!
