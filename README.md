@@ -8,8 +8,7 @@
 
 Here is a video demo of Sober Steps: 
 
-[![IMAGE ALT TEXT](<img width="651" alt="Screen Shot 2022-11-13 at 8 48 32 PM" src="https://user-images.githubusercontent.com/82325195/201558568-b8c78e8e-cf85-40ca-86c2-1a7e45a58fdc.png">
-)](http://www.youtube.com/watch?v=GN_I9C0LT3k "Sober Steps")
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/GN_I9C0LT3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Inspiration
