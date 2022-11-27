@@ -9,7 +9,7 @@
 Here is a video demo of Sober Steps: 
 
 
-[<img src="<img width="954" alt="Screen Shot 2022-11-26 at 10 59 40 PM" src="https://user-images.githubusercontent.com/82325195/204118642-7cc306e9-2eb0-44cc-9285-a3a8f078d62f.png">" width="50%">](https://youtu.be/GN_I9C0LT3k "slay")
+<img src="<img width="954" alt="Screen Shot 2022-11-26 at 10 59 40 PM" src="https://user-images.githubusercontent.com/82325195/204118642-7cc306e9-2eb0-44cc-9285-a3a8f078d62f.png">" width="50%">(https://youtu.be/GN_I9C0LT3k "slay")
 
 
 
