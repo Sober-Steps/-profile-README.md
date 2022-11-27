@@ -8,7 +8,8 @@
 
 Here is a video demo of Sober Steps: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GN_I9C0LT3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/GN_I9C0LT3k
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 ## Inspiration
 We know a lot of people struggle in mental health issues and sobriety, especially in college, and we wanted to make an app in honor of Drew, a BU student who passed away due to overdosing. We hope to spread awareness and support everyone going through a hard time. We wanted to make sure there was an alternative to isolating yourself when you are going through a tough time-- we wanted an app that promotes friendship, communication, and accountability! We are here for you, and so is everyone on our app. 
