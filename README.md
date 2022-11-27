@@ -6,14 +6,10 @@
 ![2009e2a5-eea2-4905-aefb-63bc0785c788](https://user-images.githubusercontent.com/82325195/201555046-f23c8ef3-36b8-414d-95f9-02544fa1212e.jpg)
 
 
-Here is a video demo of Sober Steps: 
-
-[<img src="<img width="954" alt="Screen Shot 2022-11-26 at 10 59 40 PM" src="https://user-images.githubusercontent.com/82325195/204118724-f20ce46a-8978-4e7b-8917-e362e749a84b.png">
-" width="50%">](https://youtu.be/GN_I9C0LT3k "Please click on the video")
+Here is a video demo of [Sober Steps](https://youtu.be/GN_I9C0LT3k)
 
 
 
-<img src="<img width="954" alt="Screen Shot 2022-11-26 at 10 59 40 PM" src="https://user-images.githubusercontent.com/82325195/204118642-7cc306e9-2eb0-44cc-9285-a3a8f078d62f.png"> width="50%">(https://youtu.be/GN_I9C0LT3k "slay")
 
 
 
